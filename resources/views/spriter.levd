@@ -1,0 +1,7 @@
+@once('iconify-sprite-stack')
+<!-- ICONIFY :: STACK -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+@stack('iconify')
+</svg>
+<!-- ICONIFY :: STACK -->
+@endonce

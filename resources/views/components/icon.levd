@@ -1,0 +1,3 @@
+@props(['name' => null, 'class' => ''])
+
+{!! iconify($name, $class, $attributes->all()) !!}
